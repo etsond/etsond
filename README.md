@@ -1,7 +1,17 @@
-### Hi there 👋
+<h1>Hi, I'm Etson! <br/> <a href="https://github.com/etsond/etsond">Digital Craftsman</a>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+-Active Directory Home Lab(add Link)
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+
+
+<h2> 🤳 Connect with me:</h2>
+
 
 <!--
-**etsond/etsond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
