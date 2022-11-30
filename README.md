@@ -2,7 +2,6 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
--Active Directory Home Lab(add Link)
 
 <h2> 🤳 Connect with me:</h2>
 
