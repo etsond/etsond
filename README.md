@@ -1,9 +1,5 @@
 <h1>Hi, I'm Etson! <br/> <a href="https://github.com/etsond/etsond">Digital Craftsman</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
-
-
-<h2> 🤳 Connect with me:</h2>
 
 
 <!--
