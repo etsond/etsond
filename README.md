@@ -10,7 +10,7 @@ I'm a software engineer with a love for web development. I'm currently working w
 
 🍳  I've always love cooking so i owned a cooking business for a little bit
 
-📚  I feel, The second Black Panther movie was better than the first one
+💬  I feel, The second Black Panther movie was better than the first one
 
 ࿚  I love walking trails so in my leisure time you may find me exploring somewhere
 
