@@ -2,7 +2,7 @@
 __________________________________________________
 
   
-I'm a software engineer with a love for learning. I'm currently working with React to create easy-to-use and beautiful responsive web apps. One of my lifetime goal is to bridge the gap by buildin ga compiler in my father's native language.
+I'm a software engineer with a love for learning. I'm currently working with React to create easy-to-use and beautiful responsive web apps. One of my lifetime goal is to bridge the gap by building a compiler in my father's native language.
 
 **Fun Facts About Me**
 
