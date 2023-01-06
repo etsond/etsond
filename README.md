@@ -2,7 +2,7 @@
 __________________________________________________
 
   
-I'm a software engineer with a love for learning. I'm currently working with React to create easy-to-use and beautiful responsive web apps. I strive to make the technology industry more accessible to aspiring developers and engineers by reaching out and sharing my experiences.
+I'm a software engineer with a love for learning. I'm currently working with React to create easy-to-use and beautiful responsive web apps. I strive to make the technology industry more accessible to aspiring developers and engineers by reaching out and sharing my experiences. My lifeTime goal to the software engineering community is to build a compiler in my father's native tongue.
 
 **Fun Facts About Me**
 
