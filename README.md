@@ -2,19 +2,21 @@
 __________________________________________________
 
   
-I'm a software engineer with a love for web development. I'm currently working with React to create easy-to-use and beautiful web apps. I strive to make the technology industry more accessible to aspiring developers and engineers by reaching out and share my experiences.
+I'm a software engineer with a love for learning. I'm currently working with React to create easy-to-use and beautiful responsive web apps. I strive to make the technology industry more accessible to aspiring developers and engineers by reaching out and sharing my experiences.
 
-**Fun Facts**
+**Fun Facts About Me**
 
 🌟  The first language I used to program in was Web Development in the 10th Grade.
 
-🍳  I've always love cooking so i owned a cooking business for a little bit
+🍳  I've always love cooking so I owned a cooking business for a little bit
 
 💬  I feel, The second Black Panther movie was better than the first one
 
 ࿚  I love walking trails so in my leisure time you may find me exploring somewhere
 
-🎮  If I'm not coding, you'll likely find me playing a basketball or working out. 
+✅  I speak a few languages, but i can read some better than i can speak.
+
+🎮  If I'm not coding, you'll likely find me playing basketball(I think I am very good 😊 ) or working out. 
 
 ---
 
