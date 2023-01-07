@@ -16,7 +16,7 @@ I'm a software engineer with a love for learning. I'm currently working with Rea
 
 ✅  I speak a few languages, but i can read some better than i can speak.
 
-🎮  If I'm not coding, you'll likely find me playing basketball(I think I am very good 😊 ) or working out. 
+⛹🏿‍♂️  If I'm not coding, you'll likely find me playing basketball(I think I am very good 😊 ) or working out. 
 
 ---
 
