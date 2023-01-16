@@ -1,7 +1,7 @@
 Hi 👋 My name is Etson Dorival
 ==============================
 
-Software Weveloper
+Software Developer
 ------------------
 
 * ✉️  You can contact me at [etsond@ufl.edu](mailto:etsond@ufl.edu)
