@@ -2,10 +2,6 @@
 <img width="1280" height="400" alt="Make your README" src="https://user-images.githubusercontent.com/35821623/228026886-cafdc1ee-f018-47fc-babf-aaeea9700d63.png">
 
 
-
-Hi 👋 My name is Etson Dorival
-==============================
-
 * ✉️  You can contact me at [etsond@ufl.edu](mailto:etsond@ufl.edu)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Cool Projects
