@@ -3,7 +3,7 @@
 
 
 * ✉️  You can contact me at [etsond@ufl.edu](mailto:etsond@ufl.edu)
-* 🧠  I'm learning React
+* 📚  I'm currently reading Design Patterns
 * 🤝  I'm open to collaborating on Cool Projects
 
 ### Skills
