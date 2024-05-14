@@ -2,7 +2,7 @@
 
 
 
-* ✉️  You can contact me at [etsond@ufl.edu](mailto:etsond@ufl.edu)
+* ✉️  You can contact me at [etsondorival14@gmail.com](mailto:etsondorival14@gmail.com)
 * 📚  Currently Enhancing my coding skills to reach new levels of proficiency
 * 🤝  I'm open to collaborating on Cool Projects
 
