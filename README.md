@@ -3,7 +3,7 @@
 
 
 * ✉️  You can contact me at [etsond@ufl.edu](mailto:etsond@ufl.edu)
-* 📚  I'm currently reading Design Patterns
+* 📚  Currently Enhancing my coding skills to reach new levels of proficiency
 * 🤝  I'm open to collaborating on Cool Projects
 
 ### Skills
